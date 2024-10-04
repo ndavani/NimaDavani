@@ -12,7 +12,7 @@
         </tr>
         <tr>
             <th>Introduction</th>
-            <td>Hello, I am a junior here at GMU majoring in Information Technology.</td>
+            <td>HHHHello, I am a junior here at GMU majoring in Information Technology.</td>
         </tr>
         <tr>
             <th>Hobbies</th>
