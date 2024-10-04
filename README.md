@@ -8,16 +8,16 @@
 <body>
     <table border="1">
         <tr>
-            <th>'Name'</th>
-            <td>John Smith</td>
+            <th>Name</th>
+            <td>Nima Davani</td>
         </tr>
         <tr>
             <th>Introduction</th>
-            <td>Hello, I am a junior in the BS IT program. I enjoy coding Python and R.</td>
+            <td>Hello, I am a junior here at GMU majoring in Information Technology.</td>
         </tr>
         <tr>
             <th>Hobbies</th>
-            <td>Programming, making websites.</td>
+            <td>Playing sports, watching sports, and cooking.</td>
         </tr>
     </table>
 </body>
